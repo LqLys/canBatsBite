@@ -42,6 +42,7 @@
 
 <main>
 	<h1>Can bats bite</h1>
+	<h5>made by hiri#9048</h5>
 	<button class="btn btn-primary" on:click={connectWallet}>Connect</button>
 	<button class="btn btn-primary" on:click={isPresaleActive}>GetBats</button>
 	<table class="table">
