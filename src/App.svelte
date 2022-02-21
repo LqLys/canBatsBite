@@ -49,7 +49,7 @@
 
 		<tr>
 			<th scope="col">ID</th>
-			<th scope="col">Bitten</th>
+			<th scope="col">Can bite</th>
 		</tr>
 		</thead>
 		<tbody>
